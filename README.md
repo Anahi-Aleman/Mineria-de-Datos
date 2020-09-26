@@ -6,3 +6,6 @@
 
 
 [Ejercicio1_RegresionLineal](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejamplo1.1%20Mineria.ipynb)
+
+
+[Ejercicio2_ReglasDeAsociacion](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicio1.2%20Mineria.ipynb)
