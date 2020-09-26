@@ -3,3 +3,6 @@
 
 
 [Presentacion_Clustering](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Presentaci%C3%B3n_Clustering_8.pdf)
+
+
+[Ejercicio1_RegresionLineal](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejamplo1.1%20Mineria.ipynb)
