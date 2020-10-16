@@ -15,3 +15,6 @@
 
 
 [Mapa_Mental_2](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/MapaMental_2_1821952.pdf)
+
+
+[Base de datos]_( https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/AnalisisBD_1821952.pdf)
