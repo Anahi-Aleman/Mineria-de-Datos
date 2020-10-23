@@ -18,3 +18,6 @@
 
 
 [Base_de_datos](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/AnalisisBD_1821952.pdf)
+
+
+[Ejercicios_basicos](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicios%20Python%20.ipynb)
