@@ -1,4 +1,6 @@
 # Mineria-de-Datos
+ETAPA I
+
 [Mapa_Mental_1](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/MapaMental_1_1821952.pdf)
 
 
@@ -16,6 +18,7 @@
 
 [Mapa_Mental_2](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/MapaMental_2_1821952.pdf)
 
+ETAPA II
 
 [Base_de_datos](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/AnalisisBD_1821952.pdf)
 
