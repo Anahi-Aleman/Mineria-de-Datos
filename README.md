@@ -10,7 +10,7 @@ ETAPA I
 [Ejercicio1_RegresionLineal](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejamplo1.1%20Mineria.ipynb)
 
 
-[Ejercicio2_ReglasDeAsociacion](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicio1.2%20Mineria.ipynb)]
+[Ejercicio2_ReglasDeAsociacion](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicio1.2%20Mineria.ipynb)
 
 
 [Resumen](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Resumen_T%C3%A9cnicasDeMiner%C3%ADaDeDatos_1821952.pdf)
