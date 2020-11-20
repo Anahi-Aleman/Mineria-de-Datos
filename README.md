@@ -38,3 +38,4 @@ ETAPA III
 
 
 [Poster_borrador](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/COVID19.pdf)
+
