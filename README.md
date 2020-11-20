@@ -35,3 +35,6 @@ ETAPA II
 ETAPA III
 
 [Avance2_PIA](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/AvancePIA_II_03_04.ipynb)
+
+
+[Poster_borrador](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/COVID19.pdf)
