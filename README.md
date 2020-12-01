@@ -37,4 +37,4 @@ ETAPA III
 [Avance2_PIA](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/AvancePIA_II_03_04.ipynb)
 
 
-[Poster_Equipo4](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/PIA_Equipo04_Gpo03.pdf)
+[PIA_Equipo4](https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/PIA_Equipo04_Gpo03.pdf)
